@@ -15,7 +15,6 @@ Yay!!
 ## Discussion
 I rock!!
 
-- item 1
 - item mwahahaha
 - item 2
 - item 3
@@ -23,3 +22,7 @@ I rock!!
 1. do 1
 4. do 2
 1. do 3
+
+```{r, echo = TRUE}
+plot(cars)
+```
